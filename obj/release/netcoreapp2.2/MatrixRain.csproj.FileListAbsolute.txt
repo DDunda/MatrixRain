@@ -1,0 +1,11 @@
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\bin\release\netcoreapp2.2\MatrixRain.deps.json
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\bin\release\netcoreapp2.2\MatrixRain.runtimeconfig.json
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\bin\release\netcoreapp2.2\MatrixRain.runtimeconfig.dev.json
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\bin\release\netcoreapp2.2\MatrixRain.dll
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\bin\release\netcoreapp2.2\MatrixRain.pdb
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.csprojAssemblyReference.cache
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.csproj.CoreCompileInputs.cache
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.AssemblyInfoInputs.cache
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.AssemblyInfo.cs
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.dll
+D:\NewDesktop\Everything\Shit\Programming\Github\MatrixRain\obj\release\netcoreapp2.2\MatrixRain.pdb
